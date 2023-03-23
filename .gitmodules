@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "CombinePortfolio"]
+	path = CombinePortfolio
+	url = https://github.com/cran/CombinePortfolio
+	shallow = true
+	registered = true
+[submodule "gamlss.lasso"]
+	path = gamlss.lasso
+	url = https://github.com/cran/gamlss.lasso
+	shallow = true
+	registered = true
